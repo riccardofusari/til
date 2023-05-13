@@ -1,3 +1,2 @@
 ### TCL
-- [[1.intro-tcl]]
-- [operating-systems](operating-systems.md) 
+- [intro-tcl](intro-tcl.md) 
