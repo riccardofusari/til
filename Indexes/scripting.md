@@ -1,2 +1,2 @@
 ### TCL
-- [intro-tcl](intro-tcl.md.md) 
+- [intro-tcl](../scripting/tcl/theory/intro-tcl.md)
