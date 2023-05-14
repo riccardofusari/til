@@ -1,6 +1,6 @@
 # compile-and-insert-driver-modules
 
-After you write a driver module, you need to compile it
+After you write a driver module, you need to compile it.
 
 The easiest module is just one C file containing all the implementation of the VFS functions and the mandatory __init and __exit functions. For compile and use the driver in linux, there are two main ways:
 
