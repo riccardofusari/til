@@ -15,3 +15,4 @@ This repository is intended for learning purposes only and does not aim to cover
 # Index of topics
 - [operating-systems](indexes/operating-systems.md)
 - [scripting](indexes/scripting.md)
+- [systemVerilog](indexes/systemVerilog.md)
