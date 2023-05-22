@@ -9,7 +9,7 @@ This has been an effective way for me to retain the knowledge that I gain at uni
 
 The idea of this “Today I Learned” repository is kindly stolen from blog posts of Josh Branchaud (on GitHub [@jbranchaud](https://github.com/jbranchaud)) and swyx ([beautiful article](https://www.swyx.io/learn-in-public)), to whom I extend my gratitude. The concept of “atomic notes” is taken from the Zettelkasten method, very well explained in the book “[How to take Smart Notes](https://www.google.com/search?q=how+to+take+smart+notes+libro&oq=how+to+take+smart+notes+libro&aqs=chrome..69i57j0i22i30.3615j0j7&sourceid=chrome&ie=UTF-8)”.
 
-This repository is intended for learning purposes only and does not aim to cover every detail nor to be shared. However, I would be very happy if you find some content useful. Please remember to verify the accuracy of any information you collect :-).
+This repository is intended for learning purposes only and does not aim to cover every detail nor to be shared. However, I would be very happy if you find some content useful. Please remember to verify the accuracy of any information you collect :-)
 
 
 # Index of topics
