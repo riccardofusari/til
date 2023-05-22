@@ -1,0 +1,8 @@
+![](../media/Pasted%20image%2020230522120041.png)
+
+1. The HDL is compiled and translated into abstract internal models (logic networks, graphs and trees)
+2. **Synthesis process:** Design compiler translates the abstract models into a generic gate-level netlist (gate taken from the generic library GTECH and the DesignWare library). The GTECH contains generic basic logic gates and ff. the DesignWare contains more complex cells such as arithmetic cores. The symbol library is used to generate the design schematic. **The technology library is used later.**
+3. After the synthesis process, **Design Compiler optimizes** and maps the generic netlist into a specific technology library, known as the ***target library***. This mapping process is constraints driven. The optimization process refines the netlist in order to minimize area,dynamic power, static power.
+4. **Timing & Power Analysis**: a dedicate static analysis engine is embedded in DC. At each iteration it provides most critical path and power consumption. If constraints are met, the process stops and return the optimized netlist
+5. **Formal Verification:** the functionality of the gate-level netlist is validated through mathematical methods and synopsys formality. The functional verification is simulation based, time-consuming. post-synthesis simulation is used to estimate the switching activity of internal nodes under realistic work-load.
+6. **Post-synthesis STA and SPA:** PrimeTime is used for STA and allows the user to exhaustively analyze critical paths distribution, fanout and capacity load of each net. PrimePower is used for SPA, simulate the effects of wires and analyze dynamic power using probabilistic models and leakege power analysis

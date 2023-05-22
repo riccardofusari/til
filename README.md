@@ -16,3 +16,4 @@ This repository is intended for learning purposes only and does not aim to cover
 - [operating-systems](indexes/operating-systems.md)
 - [scripting](indexes/scripting.md)
 - [systemVerilog](indexes/systemVerilog.md)
+- [synthesis](indexes/synthesis.md)
