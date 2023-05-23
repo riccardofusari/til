@@ -3,14 +3,16 @@ After the library specification, you want to analyze the design for syntax error
 `analyze` 
 	[-format verilog | sverilog | vhdl]
 	[-library library_name | -work library_name]
-	
+	 The analyze command reads the design files and checks for syntax errors. It creates a design hierarchy and builds an internal database that represents the design
 
 `elaborate`
 	design_name
 	[-library library_name | -work library_name]
     [-parameters param_list]
     [-architecture arch_name]
-               
+     The elaborate command builds a circuit that represents the design in an intermediary language. It also performs optimizations and transformations on the design, such as removing redundant logic, optimizing the size of the design, and adding clock gating. In this phase you can also ***overwrite the default value of the parameters*** in your RTL code.
+
+	
 
 example:
 
