@@ -1,6 +1,6 @@
 # Index
 ## TCL
-- [intro-tcl](../notes/intro-tcl.md)
+- [Intro to TCL](../notes/intro-tcl.md)
 
 #### Managing collections in synopsys
 - [attributes-collections-sys](../notes/attributes-collections-sys.md)
