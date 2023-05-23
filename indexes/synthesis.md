@@ -2,7 +2,7 @@
 - [logic-design-flow-from-synopsys](../notes/logic-design-flow-from-synopsys.md)
 - [synthesis-flow-commands-synopsys](../notes/synthesis-flow-commands-synopsys.md)
 
-### Collections
+#### Collections
 - [collections-sys](../notes/collections-sys.md)
 - [attributes-collections-sys](../notes/attributes-collections-sys.md)
 - [querying-collections-sys](../notes/querying-collections-sys.md)
