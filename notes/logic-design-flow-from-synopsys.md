@@ -1,3 +1,4 @@
+# Logic design flow from Synopsys
 ![](../media/Pasted%20image%2020230522120041.png)
 
 1. The HDL is compiled and translated into abstract internal models (logic networks, graphs and trees)

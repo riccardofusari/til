@@ -1,3 +1,4 @@
+# Synthesis flow commands Synopsys
 The synthesis process before formal verification and post-synthesis STA and SPA is defined by 6 main steps.hesis process before formal verification and post-synthesis STA and SPA is defined 
 1. [specify-library-sys](specify-library-sys.md)
 2. [read-design-sys](read-design-sys.md)
