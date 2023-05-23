@@ -1,3 +1,4 @@
+# Specify library on synopsys
 This are setup configurations. Usually in one setup script
 
 `search_path`
