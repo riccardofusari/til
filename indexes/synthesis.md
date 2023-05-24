@@ -4,7 +4,7 @@
 - [Synthesis flow commands](../notes/synthesis-flow-commands-synopsys.md)
 
 #### Collections
-- [Collections intro](../notes/collections-sys.md)
+- [Collections introduction](../notes/collections-sys.md)
 - [Attributes collections](../notes/attributes-collections-sys.md)
 - [Querying collections](../notes/querying-collections-sys.md)
 - [Iteration on collections](../notes/iteration-collections-sys.md)

@@ -13,7 +13,7 @@ This repository is intended for learning purposes only and does not aim to cover
 
 
 # Index of topics
-- [operating-systems](indexes/operating-systems.md)
-- [scripting](indexes/scripting.md)
-- [systemVerilog](indexes/systemVerilog.md)
-- [synthesis](indexes/synthesis.md)
+- [Operating Systems](indexes/operating-systems.md)
+- [Scripting](indexes/scripting.md)
+- [System Verilog](indexes/systemVerilog.md)
+- [Synthesis and optimization of digital systems](indexes/synthesis.md)
