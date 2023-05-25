@@ -17,3 +17,4 @@ This repository is intended for learning purposes only and does not aim to cover
 - [Scripting](indexes/scripting.md)
 - [System Verilog](indexes/systemVerilog.md)
 - [Synthesis and optimization of digital systems](indexes/synthesis.md)
+- [Microelectronics](indexes/Microelectronics.md)

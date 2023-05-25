@@ -4,10 +4,10 @@ The innovation in computer technology is made possible thanks to the abstraction
 The main abstraction layers are
 
 - Application Software
-- Operating Systems
+- [Operating systems](indexes/operating-systems.md)
 - Architecture
 - Micro architecture 
-- [Switch level](switch-model)
+- [Switch level](switch-model.md)
 - Transistor level
 - Physics
 
@@ -17,4 +17,5 @@ Nowadays, if you are in the architectural level, you need to know very well also
 
 
 ##### See also
-- [[switch-model]]
+- [Switch model](switch-model.md)
+- [Operating systems](indexes/operating-systems.md)
