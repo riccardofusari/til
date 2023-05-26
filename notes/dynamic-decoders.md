@@ -1,7 +1,7 @@
 # Decoders
 A decoder is a combinational logic circuit that takes an input code and generates an output based on the input value. It is used to convert coded information into a different format or to activate specific output lines based on the input code.
 # Dynamic decoders
-![[media/Pasted image 20230525162022.png]]
+![[../media/Pasted image 20230525162022.png]]
 
 The pink PMOSes are connected to the output line. The gates are connected to the ENABLE.
 
@@ -15,7 +15,7 @@ How can you scale up?
 
 
 ### See also
-- [Transmission gates capacitance](notes/transmission-gates-capacitance.md)
+- [Transmission gates capacitance](transmission-gates-capacitance.md)
 - [Binary shifter](binary-shifter.md)
 - [Barrel shifter](barrel-shifter.md)
-- [Logarithmic shifter](notes/logarithmic-shifter.md)
+- [Logarithmic shifter](logarithmic-shifter.md)

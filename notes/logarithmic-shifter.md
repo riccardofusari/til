@@ -1,5 +1,5 @@
 # Logarithmic shifter
-![[media/Pasted image 20230525145420.png]]
+![[../media/Pasted image 20230525145420.png]]
 
 A0 can be connected directly to the output B0 with a series of (in this case) three transistors.
 The gates are connected to the negated control signals.
@@ -24,8 +24,8 @@ That's characteristic it is better than the [[barrel-shifter]], because with the
 However, the parasitic capacitance is always there due to the lines connections. In fact, the capacitance of all the connection are still there even if the transistors are off.
 
 #### See also
-- [Transmission gates](notes/transmission-gates.md)
-- [Transmission gates capacitance](notes/transmission-gates-capacitance.md)
+- [Transmission gates](transmission-gates.md)
+- [Transmission gates capacitance](transmission-gates-capacitance.md)
 - [Dynamic Decoders](dynamic-decoders.md)
 - [Binary shifter](binary-shifter.md)
 - [Barrel shifter](barrel-shifter.md)

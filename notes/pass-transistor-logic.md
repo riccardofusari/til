@@ -1,5 +1,5 @@
 # Pass transistor logic
-![](media/Pasted%20image%2020230525190453.png)
+![](../media/Pasted%20image%2020230525190453.png)
 
 The logic is simple: due to the value of $\alpha$ the signal pass or not.
 
@@ -11,4 +11,4 @@ To resolve that, transmission gates are used.
 
 
 #### See also
--  [Transmission gates](notes/transmission-gates.md)
+-  [Transmission gates](transmission-gates.md)
