@@ -1,5 +1,5 @@
 # Logarithmic shifter
-![[../media/Pasted image 20230525145420.png]]
+![../media/Pasted%20image%2020230525145420.png](../media/Pasted%20image%2020230525145420.png)
 
 A0 can be connected directly to the output B0 with a series of (in this case) three transistors.
 The gates are connected to the negated control signals.
