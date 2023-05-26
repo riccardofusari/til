@@ -7,5 +7,5 @@ The PMOS and NMOS transistors in a transmission gate have inherent capacitance b
 
 
 #### See also
-- [Transmission gates](notes/transmission-gates.md)
-- [Switch model](notes/switch-model.md)
+- [Transmission gates](transmission-gates.md)
+- [switch-model](switch-model.md)

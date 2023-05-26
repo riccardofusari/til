@@ -20,6 +20,6 @@ Zooming to A1, just for 4 bit shifter there are in a line a lot of parasitic cap
 ![[media/Pasted image 20230525144637.png]]
 
 #### See also
-- [Transmission gates capacitance](notes/transmission-gates-capacitance.md)
-- [Transmission gates](notes/transmission-gates.md)
-- [Logarithmic shifter](notes/logarithmic-shifter.md)
+- [Transmission gates capacitance](transmission-gates-capacitance.md)
+- [Transmission gates](transmission-gates.md)
+- [Logarithmic shifter](logarithmic-shifter.md)
