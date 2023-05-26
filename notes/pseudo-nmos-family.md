@@ -2,7 +2,7 @@
 The resistance is always present, so there is always a power dissipation. You also have to take into account the partition.
 
 With the evolution of technology the resistance was remove from a P-MOS.
-![[../media/Pasted image 20230525180515.png]]
+![../media/Pasted%20image%2020230525180515.png](../media/Pasted%20image%2020230525180515.png)
 
 The PMOS is always on and act as the resistor.
 Why should I use this instead of a CMOS? It has always a power dissipation and a leakage current flowing.
