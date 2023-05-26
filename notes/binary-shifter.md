@@ -1,5 +1,5 @@
 # Binary shifter
-![[media/Pasted image 20230525142026.png]]
+![[../media/Pasted image 20230525142026.png]]
 
 They are all in the [Pass transistor logic](notes/pass-transistor-logic.md). 
 - The gate are related to the signal $\alpha$ . If $\alpha$ is one, the transistors are closed and nothing happens. So the output will be the same as the input. No shifting.

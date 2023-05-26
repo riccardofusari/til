@@ -1,6 +1,6 @@
 # CMOS
 
-![](media/Pasted%20image%2020230525190110.png)
+![](../media/Pasted%20image%2020230525190110.png)
 
 The P-network is usually called pull-up (is referenced to power supply)
 

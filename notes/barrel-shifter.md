@@ -1,5 +1,5 @@
 # Barrel Shifter
-![[media/Pasted image 20230525142615.png]]
+![[../media/Pasted image 20230525142615.png]]
 
 Here you can shift of a certain amount of position altogether, compared to [Binary shifter](binary-shifter.md). 
 
