@@ -1,9 +1,7 @@
 # Interfaces and classes in systemVerilog
 
-Objects don't have a port list in systemverilog. To access they we can use the interfaces
-
+Objects don't have a port list in systemverilog. To access them we can use the interfaces
 ```systemverilog
-
 //Include the definition of the tester class
 `include "tester.svh"
 
