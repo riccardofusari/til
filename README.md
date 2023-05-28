@@ -11,8 +11,8 @@ This repository is intended for learning purposes only and does not aim to cover
 
 
 # Index of topics
-- [Operating Systems](indexes/operating-systems.md)
-- [Scripting](indexes/scripting.md)
-- [System Verilog](indexes/systemVerilog.md)
+- [Verification](indexes/verification.md)
 - [Synthesis and optimization of digital systems](indexes/synthesis.md)
-- [Microelectronics](indexes/Microelectronics.md)
+- [Microelectronics](indexes/microelectronics.md)
+- [Scripting](indexes/scripting.md)
+- [Operating Systems](indexes/operating-systems.md)
