@@ -1,18 +1,17 @@
 # Extension of a class in SystemVerilog
 It is possible to leverage a class with child classes.
 
-A child class is declared with the `extends` keyword.
+A child class is declared with the `extends` keyword which refer to the parent.
 
-The constructor of a child class is called with `super.new(..)`
+The constructor of a child class is called composed of the parent's constructor with `super.new(..)` keyword.
 
 A child class can use the parent's methods.
-
 ```systemverilog
 class rectangle_t;
 	int lenght;
 	int width;
 
-//Constructor
+//Constructor of the parent
 	function new(int 1, int w);
 		lenght = 1;
 		width  = w;

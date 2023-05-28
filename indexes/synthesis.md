@@ -1,4 +1,6 @@
 # Index
+## Theory
+- [Microelectronics design flow](../notes/microelectronics-design-flow.md)
 ## Synopsys
 - [Logic design flow from synopsys](../notes/logic-design-flow-from-synopsys.md)
 - [Synthesis flow commands](../notes/synthesis-flow-commands-synopsys.md)

@@ -1,5 +1,5 @@
 # Microelectronics design flow
-![](Pasted%20image%2020230526100552.png)
+![](../media/Pasted%20image%2020230526100552.png)
 
 It is composed of:
 - **Modeling**, by an HDL. The modeling can be further subdivide depending on the abstracion levels and views. 
@@ -26,4 +26,4 @@ Usually the steps are
 6. Optimization
 7. Floorplanning
 
-![](Pasted%20image%2020230526101407.png)
+![](../media/Pasted%20image%2020230526101407.png)

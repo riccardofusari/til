@@ -10,7 +10,7 @@ class rectangle_t;
 		lenght = 1;
 		width  = w;
 	endfunction
-
+//Method. This act upon the data of the object
 	function integer area;
 		return lenght * width;
 	endfunction
@@ -18,7 +18,7 @@ endclass
 ```
 
 - Variable inside a class are data members
-- The **constructor** is a function that creates a new instance of the class.
+- The **constructor** is the function of a class that creates a new instance of the class.
 - The functions inside the class are called **methods**
 
 The memory is not allocated when you declare a variable of type of a class (allocate just a pointer). Only when you initialize the object the memory is allocated (with the constructor).
@@ -28,6 +28,7 @@ module class_example;
 
 	//Here the memory is NOT allocated
 	rectangle_t rectangle;
+	
 	initial begin
 		//Here the memory IS allocated
 		rectangle = new(50, 20);

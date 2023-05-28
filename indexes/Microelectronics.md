@@ -1,6 +1,7 @@
 # Index
 ### Introduction
 - [Abstraction layers](../notes/abstraction-layers.md)
+- [Microelectronics design flow](../notes/microelectronics-design-flow.md)
 
 ### Switch level
 - [cmos](../notes/cmos.md)
