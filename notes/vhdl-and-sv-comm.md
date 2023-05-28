@@ -36,6 +36,7 @@ module top;
 endmodule
 ```
 
+We are providing the tester objects that “live” inside the testbench, a way to exchange data with our DUT instantiated inside the wrapper.
 A wrapper is a module defined this way
 ```systemverilog
 module memory_wrapper (memory_if.mem_mp m);
@@ -50,6 +51,8 @@ endmodule
 ```
 
 so the wrapper is referring to the modport define into the interface. Whenever into the tester you refer to the m.* signal, you are referring to the same signal that pass through the interface and goes to the VHDL code.
+
+
 
 #### See also
 - [Interfaces SystemVerilog](interfaces-systemverilog.md)

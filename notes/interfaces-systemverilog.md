@@ -1,4 +1,5 @@
 # Interfaces in systemVerilog
+An interface allows to abstract and simplify the communication with the DUT, while providing an “access point” to the methods inside the test classes.
 
 It looks like a module and it is instantiated as a module. 
 It is like a module with signals in it. The interface uses `modports` to control signal direction.
@@ -85,6 +86,8 @@ endmodule
 ```
 
 even if they are m and t, the signal in which they refer to are the same.
+
+Besides signals and portmappings, interfaces can also contain tasks, functions, or combinational and sequential blocks that may be used to implement a more advanced communication protocol (therefore abstracting it from the testbench point of view) or to contain some self-checking logic.
 
 #### See also
 - [interfaces-and-classes-sv](interfaces-and-classes-sv.md)
