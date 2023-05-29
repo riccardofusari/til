@@ -18,7 +18,7 @@ Not only the lines has capacitance. Of course, also the transistor has one for e
 
 Zooming to A1, just for 4 bit shifter there are in a line a lot of parasitic capacitance.
 
-![[media/Pasted image 20230525144637.png]]
+![[../media/Pasted image 20230525144637.png]]
 
 #### See also
 - [Transmission gates capacitance](transmission-gates-capacitance.md)

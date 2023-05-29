@@ -1,12 +1,12 @@
 It is configured in a master-slave configuration with a two latches
-![](media/Pasted%20image%2020230529105806.png)
+![](../media/Pasted%20image%2020230529105806.png)
 
 But, they have an inverse clock evaluation, one opposite of the other.
 If one is negative level triggered, the other one is positive. 
 
 So the flip flop name (positive or negative edge triggered) depends on the configuration of the latches (positive/negative LEVEL triggered).
 
-![](media/Pasted%20image%2020230529111820.png)
+![](../media/Pasted%20image%2020230529111820.png)
 
 - CK = 0    -> TG1 ON, TG4 ON, TG2 OFF, TG3 OFF  -> MASTER evaluation and SLAVE memory
 - CK = 1     -> TG2 ON, TG3 ON, TG1 OFF, TG4 OFF -> MASTER memory and SLAVE evaluation

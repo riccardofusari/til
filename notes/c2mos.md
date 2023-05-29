@@ -1,4 +1,5 @@
-![](media/Pasted%20image%2020230529124052.png)
+![](../media/Pasted%20image%2020230529124052.png)
+
 
 The internal PMOS and NMOS are connected to CLK and CLKnegated.
 The external ones are related to the Data input.

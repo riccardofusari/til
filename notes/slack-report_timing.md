@@ -1,5 +1,5 @@
 Considering a situation like this
-![](media/Pasted%20image%2020230529123302.png)
+![](../media/Pasted%20image%2020230529123302.png)
 
 When you on a synopsys script put a  `create_clock ck` , you are creating a square wave emulating the clock. In a situation like the above, the variation of B is delayed from the $t_{CK->Q}$ delay of A and a certain delay related to the combinational block.
 

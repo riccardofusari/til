@@ -13,7 +13,7 @@ This values are defined through simulation and characterizations, by looking at 
 
 Usually, the clock signal is driving a lot of flip flop, the signal can be very slow with a low slew rate, increasing the setup/hold time.
 So generally, the external signal is conditioned with some inverters and the internal clock is delayed but more precise.
-![](media/Pasted%20image%2020230529120505.png)
+![](../media/Pasted%20image%2020230529120505.png)
 
 Usually the time called Clk to Q is
 $t_{CK->Q} = t_{50\%Q} - t_{50\%CK}$ 
