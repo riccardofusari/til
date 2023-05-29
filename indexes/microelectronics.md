@@ -12,4 +12,11 @@
 - [barrel-shifter](../notes/barrel-shifter.md)
 - [binary-shifter](../notes/binary-shifter.md)
 - [logarithmic-shifter](../notes/logarithmic-shifter.md)
-
+- [Differential Cascode Voltage Swing Logic](../notes/differential-logic.md)
+- [Domino logic](../notes/domino-logic.md)
+- [Recirculating Latch](../notes/latch.md)
+- [Flip flop](../notes/flipflop.md)
+- [Setup and hold time](../notes/setup-hold-time.md)
+- [Slack](../notes/slack-report_timing.md)
+- [c2mos](../notes/c2mos.md)
+- [Real ff of stmicro](../notes/real-ff-stmicro.md)

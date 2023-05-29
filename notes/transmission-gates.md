@@ -7,7 +7,15 @@ If C= '1' both the MOS transistors are in conduction, so B=A and the value will 
 
 They are heavily used for multiplexers, decoders and shifters.
 
+##### Advantages
+- Compactness
+- Low power consumption
+
+###### Disadvantages
+- Low driving capabilities. They are not perfect switch and the parasitic capacitance and resistance reduce the voltage output. A solution of this problem may be to add buffers in the circuit to regenerate the signal.
+
 ### See also
+- [cmos](cmos.md)
 - [Transmission gates capacitance](transmission-gates-capacitance.md)
 - [Dynamic Decoders](dynamic-decoders.md)
 - [Binary shifter](binary-shifter.md)
