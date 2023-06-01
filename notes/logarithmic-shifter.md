@@ -2,7 +2,7 @@
 ![../media/Pasted%20image%2020230525145420.png](../media/Pasted%20image%2020230525145420.png)
 
 A0 can be connected directly to the output B0 with a series of (in this case) three transistors.
-The gates are connected to the negated control signals.
+**The gates are connected to the negated control signals.**
 The connection is active only if all the three transistors are on (activated through the controls signals).
 
 ###### Blue transistors
