@@ -3,12 +3,15 @@ It is a dynamic sequential logic.
 The general organization is made by two types of stages, one of type N and another by a P.
 
 The circuit is always an alternation of this stages
-![](Pasted%20image%2020230531091231.png)
+![](media/Pasted%20image%2020230531091231.png)
 
-Even if usually a circuit is made by a flip-flop -> combinational circuit -> flipflop -> combinational circuit (with a clock that goes positive and negative from flip flop to flip flop, so each block works in half clock cycle), here int the TSPC is embedded. You embed the logic of the flip flop into the circuit itself.
+A circuit is usually made by 
+flip-flop -> combinational circuit -> flipflop -> combinational circuit 
+(with a clock that goes positive and negative from flip flop to flip flop, so each block works in half clock cycle).
+This circuit architecture is embedded in the TSPC. It embeds the logic of the flip flop into the circuit itself.
 
 The chain described in the figure above is always necessary.
-![](Pasted%20image%2020230531091809.png)
+![](media/Pasted%20image%2020230531091809.png)
 
 Every stage is composed in two part. The first is like a pre-charge phase. In both the part there is a connection to the clock. The second part is connected to the clock by an NMOS or PMOS depending on the stage. 
 **Each network can embed a logic function**.

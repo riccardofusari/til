@@ -10,3 +10,4 @@
 - [VHDL DUT](../notes/vhdl-and-sv-comm.md)
 - [Packages](../notes/packages-sv.md)
 - [Macros](../notes/macros-sv.md)
+- [functional-coverage](../notes/functional-coverage.md)
