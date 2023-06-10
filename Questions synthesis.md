@@ -1,5 +1,0 @@
-- What is the two level logic synthesis?
-- What is the cubical notation?
-- which ones are the exact methods for solutions?
-- what's the difference between two levels and multi levels logic?
-- 
