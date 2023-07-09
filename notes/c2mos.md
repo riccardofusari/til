@@ -8,6 +8,6 @@ The external ones are related to the Data input.
 - CK = '1', M4 OFF, M3 OFF. So they are open circuits and the input is not connected to the input but only on the parasitic capacitance.
 
 ###### Pros
-- Even if there are parasitic resistances in the central mos, there is a lower leakage 
+- Even if there are parasitic resistances in the central mos, there is a lower leakage because when the gate is off
 - very fast
 - Good driving capability
