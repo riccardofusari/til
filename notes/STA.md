@@ -18,4 +18,4 @@ A setup constraint specifies how much time is necessary for data to be available
 A hold constraint specifies how much time is necessary for data to be stable at the input of a sequential device after the clock edge that captures the data in the device. This constraint enforces a minimum delay on the data path relative to the clock edge.
 The following example shows how STA checks setup and hold constraints for a flip-flop:
 
-![](../Pasted%20image%2020230918083516.png)
+![](../media/Pasted%20image%2020230918083516.png)
