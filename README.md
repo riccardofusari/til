@@ -16,3 +16,5 @@ This repository is intended for learning purposes only and does not aim to cover
 - [Microelectronics](indexes/microelectronics.md)
 - [Scripting](indexes/scripting.md)
 - [Operating Systems](indexes/operating-systems.md)
+- [git](indexes/git.md)
+- [ASIC](indexes/asic.md)
