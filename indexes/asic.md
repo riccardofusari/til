@@ -4,3 +4,6 @@
 - [verilog-basics](../notes/verilog-basics.md)
 - [Clock gating](../notes/Clock%20gating.md)
 - [onchip-busprotocols](../notes/onchip-busprotocols.md)
+- [fsm](../notes/fsm.md)
+- [unintentional-latches](../notes/unintentional-latches.md)
+- [setup-hold-time](../notes/setup-hold-time.md)

@@ -26,4 +26,4 @@ Summary
 This bring to the main problems of flip flop: setup time and hold time.
 
 ##### See also
-- [setup-hold-time](setup-hold-time.md)
+- [setup-hold-time 1](setup-hold-time%201.md)

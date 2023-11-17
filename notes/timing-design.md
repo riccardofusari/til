@@ -8,11 +8,9 @@ As designer, I need to understand
 - How the design and the CAD tools achieve a clock frequency that satisfies **set-up** requirements
 - How the CAD tools try to fix **hold** requirements and why is harder with latches
 
-
 # One clock, One edge; flip flops only
 
 For each design (at least for each module) use one clock source and only one edge of that clock. Only use edge-triggered flip-flops
-
 
 ## Critical Path
 
@@ -20,6 +18,7 @@ The clock speed is determined by the slowest feasible path between registers in 
 
 It is longer with increased logic depth ( # of gates in series ).
 
+It is taken into account for **setup time violations**
 ## Clock distribution
 
 The goal of a clock tree is for the clock to arrive at every leaf node at the same time.
