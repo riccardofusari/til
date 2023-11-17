@@ -12,9 +12,9 @@ This repository is intended for learning purposes only and does not aim to cover
 
 # Index of topics
 - [Verification](indexes/verification.md)
+- [ASIC](indexes/asic.md)
 - [Synthesis and optimization of digital systems](indexes/synthesis.md)
 - [Microelectronics](indexes/microelectronics.md)
 - [Scripting](indexes/scripting.md)
 - [Operating Systems](indexes/operating-systems.md)
 - [git](indexes/git.md)
-- [ASIC](indexes/asic.md)

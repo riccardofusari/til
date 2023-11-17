@@ -4,7 +4,6 @@
 ## Synopsys
 - [Logic design flow from synopsys](../notes/logic-design-flow-from-synopsys.md)
 - [Synthesis flow commands](../notes/synthesis-flow-commands-synopsys.md)
-
 #### Collections
 - [Collections introduction](../notes/collections-sys.md)
 - [Attributes collections](../notes/attributes-collections-sys.md)
