@@ -28,7 +28,6 @@ at any negative edge clock (unless reset = 0):
 
 
 In this examples is just one clock cycle, but it can be any number.
-	
 
 
 
