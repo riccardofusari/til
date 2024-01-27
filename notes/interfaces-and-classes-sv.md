@@ -12,7 +12,7 @@ module top;
 	//Declare handle for tester class
 	tester tst;
 
-	initial beign
+	initial begin
 		//Make a new tester through a constructor and pass the interface
 		tst = new(mi);
 		fork
