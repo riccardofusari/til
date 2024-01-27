@@ -44,7 +44,7 @@ In that way the class can access to the signals defined into the interface.
 Summary
 1. Define the virtual interface of type ***interface_t*** (depending on your interface)
 	```systemverilog
-virtual interface interface_t nameOfif`
+virtual interface interface_t nameOfif
 ```
 2. Define the constructor with the interface as parameter and assign to the local interface the parameter
 ```systemverilog
