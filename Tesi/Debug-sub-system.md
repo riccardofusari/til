@@ -63,6 +63,17 @@ The debug sub system is
     - `trst_ni`: Optional reset signal for the TAP controller.
 - **Key Component**: The `dmi_jtag` module translates JTAG commands into DMI transactions.
 
+## 2. Che cosa fa a runtime: fermare, ispezionare e resettare la CPU
+
+Il debug module può:
+
+- **Fermare** il core (o i core, se `NRHARTS > 1`) e metterlo in “debug mode” (`debug_core_req_o`).
+- **Leggere/scrivere** i registri interni del core (tramite la catena RISC-V Debug Spec).
+- **Effettuare accessi in memoria** (tramite l’interfaccia `debug_master_req_o` sul bus), per caricare programmi, ispezionare RAM, leggere/scrivere registri di periferiche, ecc.
+- **Resettare** il core o l’intero SoC (tramite `debug_ndmreset_no` e `ndmreset`).
+
+Queste funzioni sono poi rese disponibili a strumenti esterni (OpenOCD, GDB, ecc.) attraverso i comandi inviati in JTAG.
+
 
 - **DMI (Debug Module Interface)**:
     - **Purpose**: Facilitates communication between the JTAG interface and the Debug Module (DM) for debugging operations such as accessing processor registers or memory.
