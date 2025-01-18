@@ -1,7 +1,11 @@
 
-
 Verilator is an open-source, high-performance SystemVerilog simulator and synthesizable model generator. Unlike traditional simulators, Verilator converts SystemVerilog code into C++ or SystemC code, allowing for extremely fast simulations, particularly for large-scale digital designs such as processors. It is widely used in academia and industry for verification tasks, especially when speed is critical.
 Steps to Get Familiar with Verilator
+
+**Resources** to learn more about Verilator:
+
+- **Official site**: [https://verilator.org/](https://verilator.org/)
+- **Examples**: The repository and wiki have a bunch of example projects, tutorials, and usage guides.
 
 Here's a progression from beginner-level tasks to simulating a complex design like the X-HEEP processor:
 1. Setup Verilator

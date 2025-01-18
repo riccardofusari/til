@@ -1,5 +1,5 @@
 The debug sub system is 
-![](../Pasted%20image%2020241214200022.png)
+![](../media/Pasted%20image%2020241214200022.png)
 
 # Debug sub system flow
 ### **1. External Control via OpenOCD**

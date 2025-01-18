@@ -57,7 +57,7 @@ The **Open Bus Interface (OBI)** is a key component in your debug module that fa
     - `rvalid = 1`: Slave provides the result in `rdata`.
     - `rdata = 0xCAFEBABE`: Value of register `x1`.
 
-![](../Pasted%20image%2020241218162534.png)
+![](../media/Pasted%20image%2020241218162534.png)
 
 
  
